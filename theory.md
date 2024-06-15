@@ -1,0 +1,2 @@
+1. What is Git? is a distributed version control system which allows multiple developers to work on a project simultaneously without interfering it with each other’s work
+2. What is the difference between Git and GitHub? Git runs locally on your computer. GitHub is a cloud-based hosting service for Git repositories. Git and GitHub enable multiple developers to work on the same project simultaneously without conflicts
